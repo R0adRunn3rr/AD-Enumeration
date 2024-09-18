@@ -7,3 +7,5 @@ There may be tweaks and improvements that can be made!
 **Scripts Overview**
 
 **ad_unauth.py** - This script allows you to perform unauthenticated enumeration in an AD environment to assist in establishing an authenticated or privileged internal foothold.
+
+**ad_auth.py** - This script allows you to perform authenticated enumeration in an AD environment to assist in identifying attack vectors for lateral movement and/or privilege escalation.
