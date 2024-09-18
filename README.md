@@ -15,8 +15,6 @@ There may be tweaks and improvements that can be made!
 **ad_auth.py** - This script allows you to perform authenticated enumeration in an AD environment to assist in identifying attack vectors for lateral movement and/or privilege escalation.
 
 _Required tools:
-certipy (if using certipy-ad - change the code)
-nxc
-impacket_
+certipy (if using certipy-ad - change the code) | nxc | impacket_
 
 **Usage: python3 ad_auth.py**
