@@ -1,3 +1,5 @@
+_DISCLAIMER: These tools and scripts are intended for educational purposes only. Do not attempt to use these against networks that you are unauthorized to test._
+
 **AD Enumeration**
 
 These scripts assist with enumeration and misconfiguration identification performed during an internal penetration test (assumed breach scenario) from an unauthenticated or authenticated perspective. 
